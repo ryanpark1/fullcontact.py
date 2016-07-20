@@ -1,7 +1,7 @@
 FullContact.py
 ==============
 
-[![PyPI version](https://badge.fury.io/py/fullcontact.py.svg)](https://badge.fury.io/py/fullcontact.py)
+[![PyPI version](https://badge.fury.io/py/fullcontact.py.svg)](https://pypi.python.org/pypi/FullContact.py)
 [![Build Status](https://api.travis-ci.org/fullcontact/fullcontact.py.svg?branch=master)](https://travis-ci.org/fullcontact/fullcontact.py)
 
 A Python interface for the [FullContact API](http://docs.fullcontact.com/).
