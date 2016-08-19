@@ -10,7 +10,7 @@ from setuptools import setup
 
 setup(
     name='FullContact.py',
-    version='0.0.3',
+    version='0.0.4',
     url='https://github.com/fullcontact/fullcontact.py',
     license='MIT',
     author=['FullContact'],
