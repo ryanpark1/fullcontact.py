@@ -26,7 +26,7 @@ setup(
     include_package_data=True,
     tests_require=[
         'nose>=1.0',
-        'flake8'
+        'flake8<=2.6.2'  # Last version of flake8 to support Python 2.6
     ],
     test_suite='nose.collector',
     classifiers=[
