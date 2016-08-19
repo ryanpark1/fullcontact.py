@@ -16,7 +16,7 @@ setup(
     author=['FullContact'],
     author_email=['support@fullcontact.com'],
     description='Simple Python interface for FullContact, using Requests',
-    long_description=open('README.md', 'r').read(),
+    long_description='Simple Python interface for FullContact, using Requests',
     packages=['fullcontact'],
     zip_safe=False,
     platforms='any',
