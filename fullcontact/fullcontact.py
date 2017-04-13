@@ -17,6 +17,7 @@ class FullContact(object):
         self.get_endpoints = {
             'person': 'person.json',
             'company': 'company/lookup.json',
+            'company_search': 'company/search.json',
             'disposable': 'email/disposable.json',
             'name_normalizer': 'name/normalizer.json',
             'name_deducer': 'name/deducer.json',
